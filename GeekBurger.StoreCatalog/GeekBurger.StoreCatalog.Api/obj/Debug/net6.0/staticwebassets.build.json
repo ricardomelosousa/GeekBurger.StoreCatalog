@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FQ2kBpN1+kvt3Rvt/eO2l/MWeHNouu4Z3wnBfzT0es0=",
+  "Source": "GeekBurger.StoreCatalog.Api",
+  "BasePath": "_content/GeekBurger.StoreCatalog.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
