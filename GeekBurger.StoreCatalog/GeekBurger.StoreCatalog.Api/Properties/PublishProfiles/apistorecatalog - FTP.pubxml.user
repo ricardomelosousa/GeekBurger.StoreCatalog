@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALuGVKZKGz0Os4I4O6f0vrAAAAAACAAAAAAAQZgAAAAEAACAAAADtARJioD2l6j8sFYmA8AbvOhqHvGbKN06AktYWGN4mlwAAAAAOgAAAAAIAACAAAABNkkV+0I8kEyAt/jCjSh1K157qakUYnzx0RlnwAj3M0oAAAAC1OWSB1NXQEqqxTQWyXGK5obMfOSTygHmxjtppnO+PQ18E5675efC0s8irY8uQjZ+QZfo8DbB2H+6MEBPNIP3r5r/XzCMiImjoF2sPZli/0Spaz7eYrHD09dTGaekdAHyXwTVYOw/UwF3tcrfHYKrenQi6XzVaiEQa58AZOZ9UsEAAAAD1Tjx+Yf0JnBJeCBFW+PJSKe9aZE1iG5XW/FyYRjmkN8DVG/ForU21l/ldFfeJ5+FGfxnfJG7QRWI0yluPKgVe</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-blu-281.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2021-12-09T22:23:27.5204951Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/08/2021 00:02:59</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/08/2021 00:02:59</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Api.deps.json">
+      <publishTime>12/09/2021 19:22:11</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Api.dll">
+      <publishTime>12/09/2021 19:22:11</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Api.exe">
+      <publishTime>12/09/2021 19:22:11</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Api.pdb">
+      <publishTime>12/09/2021 19:22:11</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Api.runtimeconfig.json">
+      <publishTime>12/09/2021 19:22:12</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Contract.dll">
+      <publishTime>12/09/2021 19:22:06</publishTime>
+    </File>
+    <File Include="GeekBurger.StoreCatalog.Contract.pdb">
+      <publishTime>12/09/2021 19:22:06</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 20:14:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>08/02/2021 06:35:00</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>08/02/2021 06:35:04</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>08/02/2021 06:35:16</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/09/2021 19:22:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

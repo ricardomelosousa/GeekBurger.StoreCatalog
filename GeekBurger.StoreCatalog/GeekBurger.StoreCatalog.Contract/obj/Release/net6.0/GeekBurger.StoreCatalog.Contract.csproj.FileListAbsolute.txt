@@ -1,0 +1,13 @@
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\bin\Release\net6.0\GeekBurger.StoreCatalog.Contract.deps.json
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\bin\Release\net6.0\GeekBurger.StoreCatalog.Contract.dll
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\bin\Release\net6.0\ref\GeekBurger.StoreCatalog.Contract.dll
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\bin\Release\net6.0\GeekBurger.StoreCatalog.Contract.pdb
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.GlobalUsings.g.cs
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.csproj.AssemblyReference.cache
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.AssemblyInfoInputs.cache
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.AssemblyInfo.cs
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.dll
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\ref\GeekBurger.StoreCatalog.Contract.dll
+C:\Users\ricar\Source\Repos\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog\GeekBurger.StoreCatalog.Contract\obj\Release\net6.0\GeekBurger.StoreCatalog.Contract.pdb
